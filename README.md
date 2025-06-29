@@ -26,11 +26,7 @@
 ## 📊 Current Status
 
 <div align="center">
-<<<<<<< HEAD
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mmoiz-dev&theme=dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/></a>
-=======
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mmoiz-dev&theme=dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
->>>>>>> 9ef30c090809547b3c0eada60b6dd827d42cbc06
 </div>
 
 ## 🛠️ Tech Stack
