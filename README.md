@@ -11,6 +11,10 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6863e0731ed6bc62a2d5a227?variant=dark" alt="roadmap.sh"/></a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on The Odin Project
