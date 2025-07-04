@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assests/linkedin-banner.png" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Moiz</h1>
 <p align="center">
